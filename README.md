@@ -11,7 +11,7 @@
  
   <h4> <em>💻 A passionate data-driven with a background in Business Administration. </em></hr>
                                                                                                                         
-  <h4> <em>🔑 10+ experience in Business Administrative, Sales Support and Process improvement .</em> </h4>                                                                                                                      
+  <h4> <em>🔑 10+ experience in Business Administrative, Sales Support and Process improvement implementation .</em> </h4>                                                                                                                      
                                                                                                                         
   <h4> <em>💰 Seeking to leverage data analytical skills to improve corporate performance as a data analyst. </em> </h4>
  
