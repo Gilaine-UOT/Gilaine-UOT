@@ -1,16 +1,21 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://cdn.dribbble.com/users/634508/screenshots/2172083/media/863da86eeaed056444be4fc8b02edcdf.gif" width="420" height="340/>
+</div>
 
-<!--
-**Gilaine-UOT/Gilaine-UOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# Hi, I'm Gilaine Soares <img src="https://github.com/ABSphreak/ABSphreak/raw/master/gifs/Hi.gif" height="38" width="38" >
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  <h4> <em>🧑‍🎓 Currently studying at SCS Data Analytics and visualization at the University of Toronto. (UOT) </em></h4>
+ 
+  <h4> <em>💻 A passionate data-driven with a background in Business Administration. </em></hr>
+  <h4> <em>💰 Seeking to leverage data analytical skills to improve corporate performance as a data analyst. </em> </h4>
+ 
+ ---
+
+ </div>
+ 
+ 
+ ##
+
