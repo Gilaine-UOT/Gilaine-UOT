@@ -7,7 +7,7 @@
 # Hi, I'm Gilaine Soares <img src="https://github.com/ABSphreak/ABSphreak/raw/master/gifs/Hi.gif" height="38" width="38" >
 
 
-  <h4> <em>🧑‍🎓 Currently studying at SCS Data Analytics and visualization at the University of Toronto. (UOT) </em></h4>
+  <h4> <em>🎓 Graduated at SCS Data Analytics and visualization at the University of Toronto . (UOT) </em></h4>
  
   <h4> <em>💻 A passionate data-driven with a background in Business Administration. </em></hr>
                                                                                                                         
